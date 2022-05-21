@@ -16,6 +16,7 @@ const aboutTemplate = () => `
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, exercitationem?</p>
 `;
 
+
 const notFoundTemplate = () => `
     <h1>Page not found</h1>
 `;
